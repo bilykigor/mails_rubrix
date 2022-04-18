@@ -1,0 +1,7 @@
+- username: admin
+  hashed_password: $2b$12$vd8zQxbqtBg1WwQfUYbYH.3smk/5x.nLIYaoOL5qf7fGEWY.ZQueK # See the previous section above
+  api_key: APIk3Y4Ake
+- username: i_bilyk
+  hashed_password: $2b$12$vT2q8ceWXo.NCPautw9iqOcQGAIRZRzFgZcADErIgi9QE/GVZBHYW # See the previous section above
+  api_key: 4AkeAPIk3Y
+  workspaces: ['mail_labels'] # access to her user workspace and the client_projects workspace
